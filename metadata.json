@@ -1,0 +1,8 @@
+{
+  "name": "NexusCore CMS",
+  "description": "Next-gen headless CMS & CRM with embedded AI Agent 'Winn', focused on cross-border commerce and banking integrations.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
